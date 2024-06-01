@@ -15,6 +15,7 @@ cd ..
 pip install bitsandbytes
 pip install -r requirements.txt
 pip install protobuf==3.20.*
+pip uninstall triton
 ```
 
 ## Quantization
